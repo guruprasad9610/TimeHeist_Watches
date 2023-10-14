@@ -1,6 +1,6 @@
 # TimeHeist_Watches
 
-An e-commerce website for selling premium watches.
+An e-commerce platform for selling premium watches.
 
 ## Deployed Link
 
