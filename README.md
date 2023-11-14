@@ -4,4 +4,4 @@ An e-commerce website offers a curated selection of exquisite timepieces, meticu
 
 ## Deployed Link
 
-https://timeheist.netlify.app/
+https://timeheist.netlify.app
